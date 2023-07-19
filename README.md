@@ -1,5 +1,6 @@
 <div>
   <h1><b>CREATIVE SHOCK 2022 : TEAM VAAM SOLUTION</b></h1>
+  <img src="mano guru.jpg" alt="ERROR">
 <ul>
   <li><h2>TEAM LEADER : Aditya Dhananjaya Bahirat</h2></li>
   <li><h2>TEAM MEMBERS:</h2>
